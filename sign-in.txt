@@ -6,3 +6,5 @@
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Jenny Tran         |   j.tran@bellevuecollege.edu    
+	    Vincenzo Billett   |   vbillett.billett@bellevuecollege.edu
+      Amy Pollom	       |   amy.pollom@bellevuecollege.edu
