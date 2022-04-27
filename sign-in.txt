@@ -7,9 +7,9 @@
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Artem Dmitriev     |   artem.dmitriev@bellevuecollege.edu
       Jenny Tran         |   j.tran@bellevuecollege.edu
-	    Vincenzo Billett   |   vbillett.billett@bellevuecollege.edu
-      Amy Pollom	       |   amy.pollom@bellevuecollege.edu
-        YileiDing               |      yilei.ding@bellevuecollege.edu
-      David Caldwell    |   david.caldwell@bellevuecollege.edu
-      Amir Houshyar     |   amir.houshyar@bellevuecollege.edu
-
+      Vincenzo Billett   |   vbillett.billett@bellevuecollege.edu
+      Amy Pollom	 |   amy.pollom@bellevuecollege.edu
+      YileiDing          |   yilei.ding@bellevuecollege.edu
+      David Caldwell     |   david.caldwell@bellevuecollege.edu
+      Amir Houshyar      |   amir.houshyar@bellevuecollege.edu
+      Alex Vitellaro     |   Alex.Vitellaro@bellevuecollege.edu
