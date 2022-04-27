@@ -5,4 +5,4 @@
         
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
-    
+	  Vincenzo Billett	 |   vbillett.billett@bellevuecollege.edu
