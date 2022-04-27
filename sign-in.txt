@@ -5,4 +5,4 @@
         
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
-    
+      Jenny Tran         |   j.tran@bellevuecollege.edu    
